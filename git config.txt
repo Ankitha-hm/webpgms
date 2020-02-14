@@ -1,0 +1,22 @@
+global configuration for git
+
+>git --version
+>git config --global user.name "Ankitha"
+>git config --global user.email "honnalliankitha.25@gmail.com"
+>git config --list
+
+basic git commands
+<!DOCTYPE html>
+<html>
+<head></head>
+<h1>This is a header</h1>
+</body>
+</html>
+
+Initializing the folder as a git repository
+>git init
+>git status
+>git add .
+
+git commit -m "first commit"
+>git log --oneline

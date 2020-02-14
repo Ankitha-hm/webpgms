@@ -1,0 +1,2 @@
+1.write a ES6 pgm for printing movie ticket details displays date,time,name of person,quantity and price of the tickets booked
+  for a particular movie screened in a particular auditorium
